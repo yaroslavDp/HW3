@@ -1,0 +1,3 @@
+Simple app that fetches STAR WARS characters using SWAPI. Once you start the App you will see 10 characters. Then in searchbox you can fetch any charachter by it's ID (range 1-83). Also there is a simple input field which emulates the "updaiting" process 
+(I used Promise with setTimeout cause SWAPI does not support 'put' or 'patch' requests).
+How to start: Clone git repository to your local directory -> Open with VS Code -> Start app with Live Server.
